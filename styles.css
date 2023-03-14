@@ -50,9 +50,9 @@ li:before {
   position: absolute;
   bottom: 0px;
   left: 0px;
-  font-size: 14px;
+  font-size: 12px;
   margin: 0px;
-  padding: 8px;
+  padding: 4px;
   background-color: #fff;
   color: #0172f0;
 }
